@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CourseMaintenanceWinFormsApp.DataAccess.CourseDA" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAABAAABAAAAAACAAAAAAAAAAABAAA=</HashCode>
+      <FileName>DataAccess\CourseDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseMaintenanceWinFormsApp.DataAccess.DepartmentDA" Collapsed="true">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>DataAccess\DepartmentDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseMaintenanceWinFormsApp.DataAccess.MMABooksDA" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>DataAccess\MMABooksDA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseMaintenanceWinFormsApp.Domain.Course" Collapsed="true">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAEAAAAAgAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Domain\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseMaintenanceWinFormsApp.Domain.Department" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAA=</HashCode>
+      <FileName>Domain\Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseMaintenanceWinFormsApp.Presentation.FormValidator" Collapsed="true">
+    <Position X="12.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAEEAAQAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presentation\FormValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CourseMaintenanceWinFormsApp.CourseMaintenanceMain" Collapsed="true">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>CourseMaintenanceMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
