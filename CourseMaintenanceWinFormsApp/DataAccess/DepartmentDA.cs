@@ -1,11 +1,3 @@
-﻿/*
- * File: DepartmentDA.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: This class provides data access for a department in the university.
- */
-
 using System.Collections.Generic;
 using Microsoft.Data.SqlClient;
 using System.Data;
