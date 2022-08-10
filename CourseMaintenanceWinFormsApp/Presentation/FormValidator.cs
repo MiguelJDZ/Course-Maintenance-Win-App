@@ -1,11 +1,3 @@
-﻿/*
- * File: FormValidator.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: This utility class contains validation methods.
- */
-
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
