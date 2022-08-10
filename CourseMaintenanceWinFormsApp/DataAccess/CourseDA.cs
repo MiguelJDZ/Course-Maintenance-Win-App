@@ -1,11 +1,3 @@
-﻿/*
- * File: AlterCourseForm.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: This class provides data access for a course.
- */
-
 using System;
 using System.Collections.Generic;
 using System.Data;
