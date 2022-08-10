@@ -1,11 +1,3 @@
-﻿/*
- * File: Department.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: This class represent a department.
- */
-
 namespace CourseMaintenanceWinFormsApp.Domain
 {
     /// <summary>
