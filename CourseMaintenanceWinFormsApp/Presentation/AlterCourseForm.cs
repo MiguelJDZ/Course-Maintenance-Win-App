@@ -1,11 +1,3 @@
-﻿/*
- * File: AlterCourseForm.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: Form that can be used to add or modify a course.
- */
-
 using CourseMaintenanceWinFormsApp.DataAccess;
 using CourseMaintenanceWinFormsApp.Domain;
 using CourseMaintenanceWinFormsApp.Presentation;
