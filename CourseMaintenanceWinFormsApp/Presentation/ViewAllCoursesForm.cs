@@ -1,11 +1,3 @@
-﻿/*
- * File: ViewAllCoursesForm.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: Form to see all courses.
- */
-
 using CourseMaintenanceWinFormsApp.DataAccess;
 using System;
 using System.Drawing;
