@@ -1,12 +1,3 @@
-﻿/*
- * File: CourseMaintenanceForm.cs
- * Author: Miguel Duran
- * Course: COTI 4150-KJ1 Prof. Antonio F. Huertas
- * Date: 05/15/2021
- * Purpose: Main form to pick from various options such as
- *          View All, Add, Modify, Delete.
- */
-
 using CourseMaintenanceWinFormsApp.Presentation;
 using CourseMaintenanceWinFormsApp.DataAccess;
 using CourseMaintenanceWinFormsApp.Domain;
